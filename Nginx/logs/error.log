@@ -1,0 +1,49 @@
+2025/04/11 19:54:43 [error] 7237#0: *2 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: _, request: "GET /favicon.ico HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2025/04/11 19:56:58 [error] 7236#0: *5 open() "./html/favicon.ico" failed (2: No such file or directory), client: 10.0.0.1, server: _, request: "GET /favicon.ico HTTP/1.1", host: "hpd4tt-3000.csb.app", referrer: "https://hpd4tt-3000.csb.app/"
+2025/04/11 20:00:10 [warn] 60#0: "ssl_stapling" ignored, issuer certificate not found for certificate "./ssl/nginx.crt"
+2025/04/11 20:05:26 [emerg] 251#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/04/11 20:05:26 [emerg] 251#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/04/11 20:05:26 [emerg] 251#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/04/11 20:05:26 [emerg] 251#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/04/11 20:05:26 [emerg] 251#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/04/11 20:05:26 [emerg] 251#0: still could not bind()
+2025/04/11 20:08:54 [emerg] 252#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/04/11 20:08:54 [emerg] 252#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/04/11 20:08:54 [emerg] 252#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/04/11 20:08:54 [emerg] 252#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/04/11 20:08:54 [emerg] 252#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/04/11 20:08:54 [emerg] 252#0: still could not bind()
+2025/04/11 20:14:07 [emerg] 964#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/04/11 20:14:07 [emerg] 964#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/04/11 20:14:07 [emerg] 964#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/04/11 20:14:07 [emerg] 964#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/04/11 20:14:07 [emerg] 964#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/04/11 20:14:07 [emerg] 964#0: still could not bind()
+2025/04/11 20:16:56 [emerg] 1333#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/04/11 20:16:56 [emerg] 1333#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/04/11 20:16:56 [emerg] 1333#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/04/11 20:16:56 [emerg] 1333#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/04/11 20:16:56 [emerg] 1333#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/04/11 20:16:56 [emerg] 1333#0: still could not bind()
+2025/04/11 20:27:09 [warn] 2458#0: duplicate extension "html", content type: "text/html", previous content type: "text/html" in ./nginx.conf:37
+2025/04/11 20:27:09 [warn] 2458#0: duplicate extension "htm", content type: "text/html", previous content type: "text/html" in ./nginx.conf:37
+2025/04/11 20:27:09 [warn] 2458#0: duplicate extension "shtml", content type: "text/html", previous content type: "text/html" in ./nginx.conf:37
+2025/04/11 20:27:09 [warn] 2458#0: duplicate extension "css", content type: "text/css", previous content type: "text/css" in ./nginx.conf:38
+2025/04/11 20:27:09 [warn] 2458#0: duplicate extension "xml", content type: "text/xml", previous content type: "text/xml" in ./nginx.conf:39
+2025/04/11 20:27:09 [warn] 2458#0: duplicate extension "gif", content type: "image/gif", previous content type: "image/gif" in ./nginx.conf:40
+2025/04/11 20:27:09 [warn] 2458#0: duplicate extension "jpeg", content type: "image/jpeg", previous content type: "image/jpeg" in ./nginx.conf:41
+2025/04/11 20:27:09 [warn] 2458#0: duplicate extension "jpg", content type: "image/jpeg", previous content type: "image/jpeg" in ./nginx.conf:41
+2025/04/11 20:27:09 [warn] 2458#0: duplicate extension "js", content type: "application/javascript", previous content type: "application/javascript" in ./nginx.conf:42
+2025/04/11 20:27:09 [warn] 2458#0: duplicate extension "json", content type: "application/json", previous content type: "application/json" in ./nginx.conf:43
+2025/04/11 20:27:09 [warn] 2458#0: duplicate extension "woff", content type: "application/font-woff", previous content type: "font/woff" in ./nginx.conf:46
+2025/04/11 20:27:09 [warn] 2458#0: duplicate extension "woff2", content type: "application/font-woff2", previous content type: "font/woff2" in ./nginx.conf:47
+2025/04/11 20:27:09 [warn] 2458#0: duplicate extension "svg", content type: "image/svg+xml", previous content type: "image/svg+xml" in ./nginx.conf:48
+2025/04/11 20:27:09 [warn] 2458#0: duplicate extension "svgz", content type: "image/svg+xml", previous content type: "image/svg+xml" in ./nginx.conf:48
+2025/04/11 20:27:09 [warn] 2458#0: duplicate extension "png", content type: "image/png", previous content type: "image/png" in ./nginx.conf:49
+2025/04/11 20:27:09 [warn] 2458#0: duplicate extension "webp", content type: "image/webp", previous content type: "image/webp" in ./nginx.conf:50
+2025/04/11 20:27:09 [warn] 2458#0: duplicate extension "ico", content type: "image/x-icon", previous content type: "image/x-icon" in ./nginx.conf:51
+2025/04/11 20:27:09 [warn] 2458#0: duplicate extension "pdf", content type: "application/pdf", previous content type: "application/pdf" in ./nginx.conf:52
+2025/04/11 20:27:09 [emerg] 2458#0: "proxy_redirect" directive is not allowed here in ./nginx.conf:87
+2025/04/11 20:28:27 [emerg] 2715#0: "proxy_http_version" directive is not allowed here in ./nginx.conf:64
+2025/04/11 20:29:23 [emerg] 2906#0: "proxy_http_version" directive is not allowed here in ./nginx.conf:64
+2025/04/11 20:32:27 [error] 265#0: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /assets/js/main.js HTTP/1.1", upstream: "http://127.0.0.1:10000/assets/js/main.js", host: "hpd4tt-8080.csb.app", referrer: "https://hpd4tt-8080.csb.app/"

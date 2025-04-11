@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "timestamp": 1681234567890,
+  "data": {
+    "features": [
+      { "id": 1, "name": "Serverless Computing", "popularity": 85 },
+      { "id": 2, "name": "Container Orchestration", "popularity": 92 },
+      { "id": 3, "name": "Global CDN", "popularity": 78 },
+      { "id": 4, "name": "Database Services", "popularity": 88 },
+      { "id": 5, "name": "AI & Machine Learning", "popularity": 95 },
+      { "id": 6, "name": "DevOps Tools", "popularity": 82 }
+    ],
+    "stats": {
+      "users": 125000,
+      "deployments": 3500000,
+      "uptime": 99.99
+    },
+    "regions": [
+      { "name": "us-east", "status": "operational" },
+      { "name": "us-west", "status": "operational" },
+      { "name": "eu-central", "status": "operational" },
+      { "name": "ap-southeast", "status": "operational" },
+      { "name": "sa-east", "status": "operational" }
+    ],
+    "updates": [
+      {
+        "id": "update-2025-04-01",
+        "title": "April 2025 Platform Updates",
+        "description": "New features and improvements to our cloud platform",
+        "date": "2025-04-01T00:00:00Z"
+      },
+      {
+        "id": "update-2025-03-15",
+        "title": "March 2025 Security Enhancements",
+        "description": "Security improvements and bug fixes",
+        "date": "2025-03-15T00:00:00Z"
+      }
+    ]
+  }
+}

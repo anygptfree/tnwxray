@@ -1,0 +1,8 @@
+2025/04/10 23:47:09.945799 from 127.0.0.1:0 accepted tcp:142.250.184.228:80
+2025/04/10 23:47:56.620876 from 127.0.0.1:0 accepted tcp:142.250.186.132:80
+2025/04/11 15:49:20.083680 from 127.0.0.1:0 accepted tcp:www.google.com:443 [direct]
+2025/04/11 15:49:20.083808 from DNS accepted udp:8.8.8.8:53 [xray.system.5321e567-b9af-4312-971c-69b815cb8f7c >> direct]
+2025/04/11 15:49:45.336586 from 127.0.0.1:0 accepted tcp:www.google.com:443 [direct]
+2025/04/11 16:14:21.886991 from 127.0.0.1:0 accepted tcp:www.google.com:443 [direct]
+2025/04/11 16:14:21.887216 from DNS accepted udp:8.8.8.8:53 [xray.system.a93e33df-ec86-454c-a265-cbea902d8380 >> direct]
+2025/04/11 16:14:47.623520 from 127.0.0.1:0 accepted tcp:www.google.com:443 [direct]
